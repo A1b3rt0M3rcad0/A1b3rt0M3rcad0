@@ -15,3 +15,6 @@ class Skills(DataScientist):
   database = ['MySQL']
   ferramentas = ['Excel', 'Power BI']
 ~~~~
+## Formação 📚
+- Engenharia Química - Universidade Federal de Santa Catarina | UFSC (2018.2/2022.1 - Trancado)
+- Tecnologia em Ciência de Dados - Centro Universitário Internacional | Uninter (2022.2/2025.1)
