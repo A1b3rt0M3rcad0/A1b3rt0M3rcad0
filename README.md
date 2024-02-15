@@ -21,5 +21,5 @@ class Skills(DataScientist):
 ## Contato ☎️
 <p>
 <a href="[https://github.com/thmsgbrt](https://github.com/A1b3rt0M3rcad0)" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-<a href="www.linkedin.com/in/alberto-mercado-bb998b214" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/alberto-mercado-bb998b214" target="www.linkedin.com/in/alberto-mercado-bb998b214"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
