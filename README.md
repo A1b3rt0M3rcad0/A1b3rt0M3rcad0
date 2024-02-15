@@ -20,6 +20,6 @@ Class Skills(DataScientist):
 - Tecnologia em Ciência de Dados - Centro Universitário Internacional | Uninter (2022.2/2025.1)
 ## Contato ☎️
 <p>
-<a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href="https://github.com/A1b3rt0M3rcad0" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/alberto-mercado-bb998b214" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
