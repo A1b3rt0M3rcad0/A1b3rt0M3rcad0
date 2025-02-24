@@ -5,7 +5,7 @@ from Alberto import DataScientist
 
 Class SobreMim(DataScientist):
     nome = 'Alberto S. Mercado'
-    area = 'Data Science'
+    area = 'Back End'
     trabalho = 'FreeLancer'
     local = 'Imbituba-SC'
 
