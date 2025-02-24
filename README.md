@@ -1,19 +1,31 @@
 ## Olá, pessoas! ☕
 
 ~~~Python
-from Alberto import DataScientist
+from alberto import Backend
 
-Class SobreMim(DataScientist):
-    nome = 'Alberto S. Mercado'
-    area = 'Back End'
-    trabalho = 'FreeLancer'
-    local = 'Imbituba-SC'
+class SobreMim(Backend):
+    nome = "Alberto S. Mercado"
+    area = "Back-End"
+    local = "Imbituba-SC"
+    foco = [
+        "Desenvolvimento Back-End",
+        "Arquitetura de Software",
+        "Otimização de Bancos de Dados"
+    ]
 
-Class Skills(DataScientist):
-    linguagens = ['Python', 'SQL']
-    frameworks = ['scikit-learn', 'numpy', 'pandas', 'keras', 'tensorflow', 'XGBoost', 'matplotlib', 'seaborn']
-    database = ['MySQL']
-    ferramentas = ['Excel', 'Power BI']
+class Skills(Backend):
+    linguagens = ["Python", "SQL"]
+    
+    # Stack de Back-End
+    backend_frameworks = ["Flask", "Django", "PyJWT", "FastAPI (em aprendizado)"]
+    databases = ["MySQL", "PostgreSQL", "SQLite"]
+    
+    # Ferramentas
+    ferramentas = ["Git", "Docker (aprendendo)", "Postman", "Linux"]
+    
+    # Ciência de Dados (conhecimento intermediário, sem foco principal)
+    data_libs = ["Pandas", "NumPy", "Matplotlib", "Seaborn"]
+    ml_frameworks = ["Scikit-Learn", "TensorFlow (básico)", "XGBoost (básico)"]
 ~~~~
 ## Formação 📚
 - Engenharia Química - Universidade Federal de Santa Catarina | UFSC (2018.2/2022.1 - Trancado)
