@@ -14,16 +14,25 @@ class SobreMim(Backend):
     ]
 
 class Skills(Backend):
-    linguagens = ["Python", "SQL"]
-    
-    # Stack de Back-End
-    backend_frameworks = ["Flask", "Django", "PyJWT", "FastAPI (em aprendizado)"]
-    databases = ["MySQL", "PostgreSQL", "SQLite"]
-    
+    linguagens = ["Python", "SQL", "Java", "JavaScript"]
+
+    # Stack Back-End
+    backend_frameworks = [
+        "Flask", "Django", "PyJWT", "FastAPI", "Spring Boot"
+    ]
+
+    # Databases
+    databases = [
+        "MySQL", "PostgreSQL", "SQLite", "MongoDB", "RavenDB"
+    ]
+
+    # Front-End
+    frontend_frameworks = ["React.js", "TailwindCSS"]
+
     # Ferramentas
     ferramentas = ["Git", "Docker (aprendendo)", "Postman", "Linux"]
-    
-    # Ciência de Dados (conhecimento intermediário, sem foco principal)
+
+    # Ciência de Dados (intermediário)
     data_libs = ["Pandas", "NumPy", "Matplotlib", "Seaborn"]
     ml_frameworks = ["Scikit-Learn", "TensorFlow (básico)", "XGBoost (básico)"]
 ~~~~
